@@ -1,4 +1,4 @@
-# Nuxt 3 Bolderplace
+# Nuxt 3 Boilerplate
 
 Based on:
 
